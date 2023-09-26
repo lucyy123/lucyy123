@@ -8,8 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucyy123&theme=" alt="lucyy123" /></a> </p>
 
-- 🔭 I’m currently working as [Full Stack Developer at](Badibahen)
-
+- 🔭 I’m currently working as a Full Stack Developer at BadiBahen
 - 📫 How to reach me **monisykhan@gmail.com**
 - 👨‍💻 All of my projects are available at **https://per-ojy5.onrender.com/**
 
