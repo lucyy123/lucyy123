@@ -8,7 +8,7 @@
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
  -->
 
-- 🔭 Finding the Best Opportunity 
+- 🔭 Looking for the Best Opportunity 
 - 📫 How to reach me **monisykhan@gmail.com**
 - 👨‍💻 All of my projects are available at **https://per-ojy5.onrender.com/**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
